@@ -1,0 +1,6 @@
+src/
+__pycache__/
+pathfinder/__pycache__/
+route_collector/__pycache__/
+route_collector/migrations/
+route_collector/management/commands/__pycache__
